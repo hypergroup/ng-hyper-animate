@@ -1,17 +1,13 @@
 
 # ng-hyper-animate
 
-  Hyper animations
+  Simple [ng-hyper](http://github.com/hypergroup/ng-hyper) animations
 
 ## Installation
 
   Install with [component(1)](http://component.io):
 
-    $ component install mvanasse/ng-hyper-animate
-
-## API
-
-
+    $ component install hypergroup/ng-hyper-animate
 
 ## License
 

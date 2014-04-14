@@ -26,7 +26,7 @@
   }
 }
 
-.ng-hyper-loaded {
+.ng-hyper-loaded-defined {
   -webkit-animation-name: fadeIn;
   -webkit-animation-duration: 125ms;
   -moz-animation-name: fadeIn;

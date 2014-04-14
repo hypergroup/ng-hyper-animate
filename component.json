@@ -1,7 +1,7 @@
 {
   "name": "ng-hyper-animate",
-  "repo": "mndvns/ng-hyper-animate",
-  "description": "Hyper animations",
+  "repo": "hypergroup/ng-hyper-animate",
+  "description": "ng-hyper animations",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
